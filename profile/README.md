@@ -1,1 +1,1 @@
-# Productivity applications created by Stefan Wessels.
+# Productivity applications.
